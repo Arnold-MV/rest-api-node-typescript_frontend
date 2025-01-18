@@ -4,7 +4,6 @@ import {
   ActionFunctionArgs,
   redirect,
   useFetcher,
-  useFetchers,
 } from "react-router-dom";
 import { Product } from "../types";
 import { formatCurrency } from "../utils";
